@@ -1,0 +1,10 @@
+[
+  { "name": "type/bug", "color": "#e99695" },
+  { "name": "type/cleanup", "color": "#c2e0c6" },
+  { "name": "type/duplicate", "color": "#cccccc" },
+  { "name": "type/enhancement", "color": "#84b6eb" },
+  { "name": "type/invalid", "color": "#e6e6e6" },
+  { "name": "type/question", "color": "#cc317c" },
+  { "name": "type/task", "color": "#c2e0c6" },
+  { "name": "type/wontfix", "color": "#ffffff" }
+]
